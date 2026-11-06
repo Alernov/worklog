@@ -1,0 +1,17 @@
+{
+  "name": "worklog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Рабочий график: учёт смен, доп. задач и выплат",
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/filesystem": "^8.0.0",
+    "@capacitor/share": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0"
+  }
+}
